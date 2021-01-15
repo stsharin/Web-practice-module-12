@@ -63,3 +63,7 @@ console.log(num5 + num6);
 var total = (num5 + num6);
 total = total.toFixed(3);
 console.log(total);
+
+// to know the date
+var date = new Date("1971/12/16");
+console.log(date);
