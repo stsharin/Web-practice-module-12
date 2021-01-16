@@ -1,1 +1,1 @@
-# Web-practice-module-12
+# JS Basic
